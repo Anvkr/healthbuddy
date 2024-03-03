@@ -1,1 +1,3 @@
 Elderly individuals often face challenges when it comes to accessing healthcare services, particularly when they need to schedule appointments with doctors. This demographic may experience mobility issues or have difficulty navigating traditional appointment booking systems, leading to frustration and delays in receiving necessary medical care. Additionally, the process of finding a suitable doctor who specializes in their specific health concerns can be overwhelming and time-consuming.
+The link for video of the project is 
+https://drive.google.com/file/d/1IEmWXi-XiXXd58lnxgRyYeEkZhF8Cbgz/view?usp=drive_link
