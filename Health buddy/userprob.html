@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Services</title>
+    <link rel="stylesheet" href="userprob.css">
+</head>
+<body>
+
+    <header>
+        <h1>Health Services</h1>
+    </header>
+
+    <main>
+        <section id="problemForm">
+            <h2>Tell us your health problem:</h2>
+            <form>
+                <label for="healthProblem">Describe your health problem:</label>
+                <textarea id="healthProblem" rows="4" required></textarea>
+                <br>
+                <button type="button" onclick="submitProblem()">Submit</button>
+            </form>
+        </section>
+
+        <section id="response" style="display:none;">
+            <h2>Our Response:</h2>
+            <p id="responseText"></p>
+        </section>
+    </main>
+
+    <script src="userprob.js"></script>
+</body>
+</html>
